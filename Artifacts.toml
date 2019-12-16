@@ -1,0 +1,113 @@
+[[pprof]]
+arch = "armv7l"
+git-tree-sha1 = "66b51d1725952f950f0ab0faf0dd60223c3ff962"
+libc = "glibc"
+os = "linux"
+
+    [[pprof.download]]
+    sha256 = "17a2cb720405ec5fbdfb5df7cacd5851ba1f587b357f876067d96f8495b4cbb6"
+    url = "https://github.com/JuliaBinaryWrappers/pprof_jll.jl/releases/download/pprof-v0.0.0-20191205061153+0/pprof.v0.0.0-20191205061153.arm-linux-gnueabihf.tar.gz"
+[[pprof]]
+arch = "x86_64"
+git-tree-sha1 = "e375ea50a5ca76a1a76078785010581432241d6c"
+libc = "glibc"
+os = "linux"
+
+    [[pprof.download]]
+    sha256 = "eaeec5f832206a0ea2983a3db0634c0698c06ed92281416a0a672a9da688dfd6"
+    url = "https://github.com/JuliaBinaryWrappers/pprof_jll.jl/releases/download/pprof-v0.0.0-20191205061153+0/pprof.v0.0.0-20191205061153.x86_64-linux-gnu.tar.gz"
+[[pprof]]
+arch = "aarch64"
+git-tree-sha1 = "7996e9347ec1e4eeac769abcf692baf31fabbf89"
+libc = "musl"
+os = "linux"
+
+    [[pprof.download]]
+    sha256 = "17087a24cb7c45c8ae54fc967f66541349bcae069c04ff92575f64d51d3fa7aa"
+    url = "https://github.com/JuliaBinaryWrappers/pprof_jll.jl/releases/download/pprof-v0.0.0-20191205061153+0/pprof.v0.0.0-20191205061153.aarch64-linux-musl.tar.gz"
+[[pprof]]
+arch = "powerpc64le"
+git-tree-sha1 = "64b81d5ac2ff43616c9d6f27dc88a535c950ba37"
+libc = "glibc"
+os = "linux"
+
+    [[pprof.download]]
+    sha256 = "2bfaa3496d0628868f1c3f3dec67b300c67fc4e0003598fa86cfe01683f4dc8a"
+    url = "https://github.com/JuliaBinaryWrappers/pprof_jll.jl/releases/download/pprof-v0.0.0-20191205061153+0/pprof.v0.0.0-20191205061153.powerpc64le-linux-gnu.tar.gz"
+[[pprof]]
+arch = "x86_64"
+git-tree-sha1 = "bb592156ff0423fc6577001f9e7d4c2c71e7f8c0"
+os = "macos"
+
+    [[pprof.download]]
+    sha256 = "4b4037946cec31950c5369bc55f4734fae932ddc24820654273f517c7d322682"
+    url = "https://github.com/JuliaBinaryWrappers/pprof_jll.jl/releases/download/pprof-v0.0.0-20191205061153+0/pprof.v0.0.0-20191205061153.x86_64-apple-darwin14.tar.gz"
+[[pprof]]
+arch = "x86_64"
+git-tree-sha1 = "70506ba9de7769cd08497fecf79becf0f3c4014f"
+libc = "musl"
+os = "linux"
+
+    [[pprof.download]]
+    sha256 = "926d3ec0e313cf2f58f335119fce1cd761ba9af0f465d09d24568e286dca2103"
+    url = "https://github.com/JuliaBinaryWrappers/pprof_jll.jl/releases/download/pprof-v0.0.0-20191205061153+0/pprof.v0.0.0-20191205061153.x86_64-linux-musl.tar.gz"
+[[pprof]]
+arch = "x86_64"
+git-tree-sha1 = "25dd4a401a57c5aeba2b2c7fb0f56889abea4d82"
+os = "windows"
+
+    [[pprof.download]]
+    sha256 = "1db02eeedaf05d08cc4a7a01c90a47ffb5cac3df3c151eba229f5958135d3b3e"
+    url = "https://github.com/JuliaBinaryWrappers/pprof_jll.jl/releases/download/pprof-v0.0.0-20191205061153+0/pprof.v0.0.0-20191205061153.x86_64-w64-mingw32.tar.gz"
+[[pprof]]
+arch = "i686"
+git-tree-sha1 = "3d8617cb852866da9742e1ca5d9b0e2f82d51c70"
+libc = "glibc"
+os = "linux"
+
+    [[pprof.download]]
+    sha256 = "6713970adc2ead42250fffcbfe1d04a5849b890887500d8735c36fcb2c45a5ae"
+    url = "https://github.com/JuliaBinaryWrappers/pprof_jll.jl/releases/download/pprof-v0.0.0-20191205061153+0/pprof.v0.0.0-20191205061153.i686-linux-gnu.tar.gz"
+[[pprof]]
+arch = "aarch64"
+git-tree-sha1 = "89217ce0f63026585e0f150d1a5f3a17cb3ac4f0"
+libc = "glibc"
+os = "linux"
+
+    [[pprof.download]]
+    sha256 = "fe1ea1f28347c757649ad4966664f9d1413bea72b350d31ca5d6a2cf4f7660bd"
+    url = "https://github.com/JuliaBinaryWrappers/pprof_jll.jl/releases/download/pprof-v0.0.0-20191205061153+0/pprof.v0.0.0-20191205061153.aarch64-linux-gnu.tar.gz"
+[[pprof]]
+arch = "i686"
+git-tree-sha1 = "27377fa7e21f020426f6bc80e65bc6b8dd80ce0a"
+libc = "musl"
+os = "linux"
+
+    [[pprof.download]]
+    sha256 = "8655e524c9ff118a8301d9dd3d154b617577be96fc911566a6f71bf4bfdf76e2"
+    url = "https://github.com/JuliaBinaryWrappers/pprof_jll.jl/releases/download/pprof-v0.0.0-20191205061153+0/pprof.v0.0.0-20191205061153.i686-linux-musl.tar.gz"
+[[pprof]]
+arch = "x86_64"
+git-tree-sha1 = "ae38f7f4e0c2647046f6935d4e8bcb241fa290a0"
+os = "freebsd"
+
+    [[pprof.download]]
+    sha256 = "a09c331e98add1ba588077f39e9f985e3a783de2ca7c514ca0a7b1f53ebfae13"
+    url = "https://github.com/JuliaBinaryWrappers/pprof_jll.jl/releases/download/pprof-v0.0.0-20191205061153+0/pprof.v0.0.0-20191205061153.x86_64-unknown-freebsd11.1.tar.gz"
+[[pprof]]
+arch = "i686"
+git-tree-sha1 = "381e0d060b0b87132b71597b93c2e47feb76479f"
+os = "windows"
+
+    [[pprof.download]]
+    sha256 = "f9469f463196bfe3a34041e3b88ddfd44f1d98f3e7c9b5215896511387fbe1d1"
+    url = "https://github.com/JuliaBinaryWrappers/pprof_jll.jl/releases/download/pprof-v0.0.0-20191205061153+0/pprof.v0.0.0-20191205061153.i686-w64-mingw32.tar.gz"
+[[pprof]]
+arch = "armv7l"
+git-tree-sha1 = "3d18d7120e9b75857c359dffde08a8636c7c3612"
+libc = "musl"
+os = "linux"
+
+    [[pprof.download]]
+    sha256 = "cc4edd863766257819c29a3f151482def0ce294d54dbd863ca46999922f65970"
+    url = "https://github.com/JuliaBinaryWrappers/pprof_jll.jl/releases/download/pprof-v0.0.0-20191205061153+0/pprof.v0.0.0-20191205061153.arm-linux-musleabihf.tar.gz"
